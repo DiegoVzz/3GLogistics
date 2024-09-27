@@ -1,0 +1,5 @@
+.page-container {
+    max-width: 1200px; /* Limitar el ancho máximo */
+    margin: 0 auto; /* Centrar horizontalmente */
+    padding: 0 20px; /* Espacio lateral */
+}
